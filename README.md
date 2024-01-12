@@ -1,2 +1,2 @@
-# Wbsite
+# Website
 WADL Mini Project

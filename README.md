@@ -10,6 +10,8 @@ BUZZchat is a real-time chat web application developed using the MERN stack (Mon
 - **Private Messaging:** Users can send private messages to each other.
 - **User Profiles:** Users have their own profiles where they can update their information.
 
+More features will be added over time
+
 ## Technologies Used
 
 - **MongoDB:** NoSQL database for storing user information and chat data.
